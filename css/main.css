@@ -61,5 +61,25 @@ h4 {
     }
 }
 
+@media (max-width: 600px) {
+    footer > * {
+        text-align: center;
+    }
+
+    img {
+        width: 50%;
+    }
+
+    .img-descarga {
+        width: 15%;
+        padding: 0;
+        margin: 0;
+    }
+
+    h5 {
+        padding: 2px;
+    }
+}
+
 
 
