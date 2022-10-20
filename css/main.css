@@ -50,3 +50,27 @@ h4 {
 .accordion-button::after, .accordion-button::before {
     background-color:#8B98FF;
 }
+
+@media (max-width: 480px) {
+    footer > * {
+        text-align: center;
+    }
+
+    img {
+        width: 50%;
+    }
+
+    .formulario {
+        text-align: center;
+    }
+}
+
+@media (max-width: 768px)
+{
+    
+}
+
+@media (max-width: 1024px)
+{
+    
+}
