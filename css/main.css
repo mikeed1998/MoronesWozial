@@ -9,8 +9,9 @@ body {
     border-bottom-width: 5px;
     background-color: #262E5F;
     border-color: #6678FF;
-    font-size: 30px;
-    width: 80%;
+    font-size: 20px;
+    width: 100%;
+    color: white;
 }
 
 .form-control:focus {
@@ -49,6 +50,11 @@ h4 {
 
 .accordion-button::after, .accordion-button::before {
     background-color:#8B98FF;
+}
+
+.btn-close {
+    color: #fff; 
+    opacity: 1;
 }
 
 @media (max-width: 480px) {
