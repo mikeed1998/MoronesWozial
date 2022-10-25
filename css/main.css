@@ -44,8 +44,16 @@ body {
     color: blue;
 }
 
-h4 {
+h4, .h5-i {
     color: #6678FF;
+}
+
+.modal-content {
+    background-color: rgba(0,0,0,.0001) !important;
+}
+
+.contenido {
+    background-color: #262E5F;
 }
 
 .accordion-button::after, .accordion-button::before {
